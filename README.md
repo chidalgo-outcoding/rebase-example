@@ -3,3 +3,4 @@
 # Authors
 
 Gregory Solano
+Carlos Hidalgo
